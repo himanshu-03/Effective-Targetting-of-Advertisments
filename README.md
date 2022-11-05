@@ -22,7 +22,7 @@ expectations.
 
 ## 📌 Authors
 
-- [@jainyash4292](https://github.com/jainyash4292)
+- [@yash-jain-07](https://github.com/yash-jain-07)
 - [@khushpatel28](https://github.com/khushpatel28)
 
 
