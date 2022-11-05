@@ -22,8 +22,8 @@ expectations.
 
 ## 📌 Authors
 
-- [@yash-jain-07](https://github.com/yash-jain-07)
-- [@khushpatel28](https://github.com/khushpatel28)
+- [Yash Jain](https://github.com/yash-jain-07)
+- [Khush Patel](https://github.com/khushpatel28)
 
 
 ## 🔗 Links
