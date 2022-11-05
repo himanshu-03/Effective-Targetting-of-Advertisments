@@ -22,6 +22,7 @@ expectations.
 
 ## 📌 Authors
 
+- [Himanshu Agarwal](https://github.com/himanshu-03)
 - [Yash Jain](https://github.com/yash-jain-07)
 - [Khush Patel](https://github.com/khushpatel28)
 
