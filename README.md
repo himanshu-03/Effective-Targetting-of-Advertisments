@@ -46,7 +46,7 @@ expectations.
 
 You may use this project freely at your own risk. See [LICENSE](https://choosealicense.com/licenses/mit/).
 
-Copyright (c) 2022 Mr. Himanshu Agarwal
+    Copyright (c) 2022 Himanshu Agarwal
 
 
 <div align="center">
