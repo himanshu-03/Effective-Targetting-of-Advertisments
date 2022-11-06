@@ -9,8 +9,7 @@ The  data consists of 10 variables: 'Daily Time Spent on Site', 'Age', 'Area Inc
 The main variable we are interested in is 'Clicked on Ad'. This variable can have two possible  outcomes: 0 and 1 where 0 refers to the case where a user didn't click the advertisement, while  1 refers to the scenario where a user clicks the advertisement. 
 
 We will see if we can use the other 9 variables to accurately predict the value 'Clicked on Ad'  variable. We will also perform some exploratory data analysis to see how 'Daily Time Spent  on Site' in combination with 'Ad Topic Line' affects the user's decision to click on the add.
-
-
+<br><br>
 ## 📓 Overview
 
 | Machine Learning Models Applied            | Accuracy |
@@ -20,7 +19,7 @@ We will see if we can use the other 9 variables to accurately predict the value 
 | Logistic Regression with Hyperparameter Tuning | 96% |
 
 
-
+<br><br>
 ## 👉 Application
 
 Predict the probability of user clicking the ad which is shown to them on the partner websites
@@ -31,7 +30,7 @@ needs and create a marketing campaign that targets a specific audience, so you c
 expectations.
 
 
-
+<br><br>
 ## ✍️ Authors
 
 - [Himanshu Agarwal](https://github.com/himanshu-03)
@@ -39,13 +38,13 @@ expectations.
 - [Khush Patel](https://github.com/khushpatel28)
 
 
-
+<br><br>
 ## 📌 Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-
+<br><br>
 ## 🪪 License
 
 
