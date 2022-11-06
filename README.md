@@ -22,7 +22,7 @@ expectations.
 
 
 
-## 📌 Authors
+## ✍️ Authors
 
 - [Himanshu Agarwal](https://github.com/himanshu-03)
 - [Yash Jain](https://github.com/yash-jain-07)
@@ -35,13 +35,13 @@ expectations.
 
 
 
-## 📌 Badges
+##  Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 
-## 📌 License
+## 🪪 License
 
 
 You may use this project freely at your own risk. See [LICENSE](https://choosealicense.com/licenses/mit/).
