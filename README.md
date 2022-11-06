@@ -11,7 +11,7 @@ The main variable we are interested in is 'Clicked on Ad'. This variable can hav
 We will see if we can use the other 9 variables to accurately predict the value 'Clicked on Ad'  variable. We will also perform some exploratory data analysis to see how 'Daily Time Spent  on Site' in combination with 'Ad Topic Line' affects the user's decision to click on the add.
 
 
-## 📌 Application
+## 👉 Application
 
 Predict the probability of user clicking the ad which is shown to them on the partner websites
 for the next 7 days based on historical view log data, ad impression data and user data. Since
@@ -35,7 +35,7 @@ expectations.
 
 
 
-##  Badges
+## 📌 Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
