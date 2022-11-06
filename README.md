@@ -42,7 +42,10 @@ expectations.
 
 <br>
 
-## 📌 Badges
+## 🔗 Links
+
+
+<a href='https://colab.research.google.com/drive/1VGcsJfuzKZvwgKBGhaCpY0HMid0r47Ea' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
