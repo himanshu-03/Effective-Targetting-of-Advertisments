@@ -43,7 +43,10 @@ expectations.
 
 ## 📌 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
+You may use this tutorial freely at your own risk. See [LICENSE](https://choosealicense.com/licenses/mit/).
+
+Copyright (c) 2022 Mr. Himanshu Agarwal
 
 
 <div align="center">
