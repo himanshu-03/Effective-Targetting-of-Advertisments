@@ -10,6 +10,7 @@ The main variable we are interested in is 'Clicked on Ad'. This variable can hav
 
 We will see if we can use the other 9 variables to accurately predict the value 'Clicked on Ad'  variable. We will also perform some exploratory data analysis to see how 'Daily Time Spent  on Site' in combination with 'Ad Topic Line' affects the user's decision to click on the add.
 <br><br>
+
 ## 📓 Overview
 
 | Machine Learning Models Applied            | Accuracy |
@@ -19,7 +20,8 @@ We will see if we can use the other 9 variables to accurately predict the value 
 | Logistic Regression with Hyperparameter Tuning | 96% |
 
 
-<br><br>
+<br>
+
 ## 👉 Application
 
 Predict the probability of user clicking the ad which is shown to them on the partner websites
@@ -29,8 +31,8 @@ everyone differently. Through target marketing, you can better understand each c
 needs and create a marketing campaign that targets a specific audience, so you can meet their
 expectations.
 
+<br>
 
-<br><br>
 ## ✍️ Authors
 
 - [Himanshu Agarwal](https://github.com/himanshu-03)
@@ -38,13 +40,15 @@ expectations.
 - [Khush Patel](https://github.com/khushpatel28)
 
 
-<br><br>
+<br>
+
 ## 📌 Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-<br><br>
+<br>
+
 ## 🪪 License
 
 
