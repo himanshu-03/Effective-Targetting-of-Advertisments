@@ -13,7 +13,7 @@ We will see if we can use the other 9 variables to accurately predict the value 
 
 ## 📓 Overview
 
-| Machine Learning Model             | Accuracy |
+| Machine Learning Models Applied            | Accuracy |
 | ----------------- | ------------------------------------------------------------------ |
 | Decision Tree Classifier | 93% |
 | Logistic Regression | 90% |
