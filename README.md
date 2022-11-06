@@ -2,6 +2,7 @@
 ## Effective Targetting of Advertisments
 
 
+
 ## 📌 Problem Definition
 In this project, we will work with the advertising data of a marketing agency to develop a machine learning algorithm that predicts if a particular user will click on an advertisement. 
 
@@ -9,6 +10,7 @@ The  data consists of 10 variables: 'Daily Time Spent on Site', 'Age', 'Area Inc
 The main variable we are interested in is 'Clicked on Ad'. This variable can have two possible  outcomes: 0 and 1 where 0 refers to the case where a user didn't click the advertisement, while  1 refers to the scenario where a user clicks the advertisement. 
 
 We will see if we can use the other 9 variables to accurately predict the value 'Clicked on Ad'  variable. We will also perform some exploratory data analysis to see how 'Daily Time Spent  on Site' in combination with 'Ad Topic Line' affects the user's decision to click on the add.
+
 
 ## 📌 Application
 
@@ -18,6 +20,7 @@ every individual may have a different view of your brand, stories or slogans can
 everyone differently. Through target marketing, you can better understand each customer's
 needs and create a marketing campaign that targets a specific audience, so you can meet their
 expectations.
+
 
 
 ## 📌 Authors
@@ -35,8 +38,9 @@ expectations.
 
 ## 📌 Badges
 
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
 
 ## 📌 License
 
