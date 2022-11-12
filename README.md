@@ -11,6 +11,13 @@ The main variable we are interested in is `'Clicked on Ad'`. This variable can h
 We will see if we can use the other 9 variables to accurately predict the value `'Clicked on Ad'`  variable. We will also perform some exploratory data analysis to see how `'Daily Time Spent  on Site'` in combination with `'Ad Topic Line'` affects the user's decision to click on the add.
 <br><br>
 
+## 👀 Screenshots
+
+<img src = "/assets/1.png">
+<img src = "/assets/2.png">
+<img src = "/assets/3.png">
+<br>
+
 ## 📓 Overview
 
 | Machine Learning Models Applied            | Accuracy |
